@@ -1,6 +1,6 @@
 #import "RNKeyframesViewManager.h"
 #import "RNKeyframesView.h"
-#import <React/RCTBridge.h>
+#import <RCTBridge.h>
 
 @implementation RNKeyframesViewManager
 
