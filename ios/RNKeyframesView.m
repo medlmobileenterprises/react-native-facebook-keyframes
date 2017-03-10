@@ -1,8 +1,7 @@
 #import "RNKeyframesView.h"
-#import <RCTConvert.h>
+#import <React/RCTConvert.h>
 #import <UIKit/UIKit.h>
 #import <QuartzCore/QuartzCore.h>
-
 #import <keyframes/KFVector.h>
 #import <keyframes/KFVectorLayer.h>
 #import <keyframes/KFVectorParsingHelper.h>
